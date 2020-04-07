@@ -1,0 +1,11 @@
+B:\Projelerim\atlas\TicketBackend\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+B:\Projelerim\atlas\TicketBackend\Entities\bin\Debug\netstandard2.0\Entities.dll
+B:\Projelerim\atlas\TicketBackend\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+B:\Projelerim\atlas\TicketBackend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+B:\Projelerim\atlas\TicketBackend\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+B:\Projelerim\atlas\TicketBackend\Entities\bin\Debug\netstandard2.0\Entities.pdb
+B:\Projelerim\atlas\TicketBackend\Entities\bin\Debug\netstandard2.0\Core.dll
+B:\Projelerim\atlas\TicketBackend\Entities\bin\Debug\netstandard2.0\Core.pdb
+B:\Projelerim\atlas\TicketBackend\Entities\obj\Debug\netstandard2.0\Entities.csproj.CopyComplete
+B:\Projelerim\atlas\TicketBackend\Entities\obj\Debug\netstandard2.0\Entities.dll
+B:\Projelerim\atlas\TicketBackend\Entities\obj\Debug\netstandard2.0\Entities.pdb
